@@ -1,4 +1,4 @@
-#Steps to start a Terraform project and create the resources on AWS are as follows 
+# Steps to start a Terraform project and create the resources on AWS are as follows 
   
 01 : Create a new directory  
 02 : Create a new file named as "main.tf"  
